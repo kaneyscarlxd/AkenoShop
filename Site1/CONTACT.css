@@ -1,0 +1,28 @@
+.u-section-1 {
+  min-height: 535px;
+  background-image: url("images/7f3d25df-c503-8517-b7cb-45ccccb992fc.jpg");
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 441px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 338px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 254px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 160px;
+  }
+}
